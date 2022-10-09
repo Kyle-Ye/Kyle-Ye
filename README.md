@@ -2,15 +2,19 @@
 
 #### Time Schedule / 时间规划
 
-Weekdays on China（UTF+8）
-- 10:00-20:00 Work for [西瓜视频 iOS App](https://www.ixigua.com/app/) as an iOS Dev of ByteDance in Shanghai, China
-- 20:00-1:00 Work for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup remotely
+Weekdays on China（UTC+8）
+- 🍉 10:00-20:00 Work for [西瓜视频 iOS App](https://www.ixigua.com/app/) as an iOS Dev of ByteDance in Shanghai, China
+- 📒 20:00-1:00 Work for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup remotely
 
-You can also send PM messages at any time via kyle201817146@gmail.com
+Weekends on China (UTC+8)
+- 🎮 Play Games (eg. [IDV](https://www.identityvgame.com))
 
 中国工作日（UTF+8）
-- 10:00-20:00 作为 iOS 研发在上海字节跳动维护迭代 [西瓜视频iOS App](https://www.ixigua.com/app/)
-- 20:00-1:00 作为 Swift 文档工作组成员远程为 [DocC 项目](https://github.com/apple/swift-docc)工作
+- 🍉 10:00-20:00 作为 iOS 研发在上海字节跳动维护迭代 [西瓜视频iOS App](https://www.ixigua.com/app/)
+- 📒 20:00-1:00 作为 Swift 文档工作组成员远程为 [DocC 项目](https://github.com/apple/swift-docc)工作
+
+中国节假日
+- 🎮 游戏 (比如 [第五人格](https://id5.163.com))
 
 您也可以随时通过 kyle201817146@gmail.com 发邮件私信我
 
