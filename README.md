@@ -8,6 +8,11 @@ Weekdays on China （UTF+8）
 
 You can also send PM messages at any time via kyle201817146@gmail.com
 
+#### My Apps
+
+- [Menu Helper](https://github.com/Kyle-Ye/MenuHelper)
+- [Video Speed Controller](https://github.com/Kyle-Ye/Video-Speed-Controller)
+
 #### Links
 - 📝 Blog: [Kyle's Blog](https://kyleye.top)
 - 🔭 Work: [ByteDance](https://www.bytedance.com/en/)
