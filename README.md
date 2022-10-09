@@ -3,8 +3,8 @@
 #### Time Schedule
 
 Weekdays on China （UTF+8）
-- 10:00-20:00 Work for ByteDance in Shanghai, China
-- 20:00-1:00 Work for [DocC projects](https://github.com/apple/swift-docc) remotely
+- 10:00-20:00 Work for [西瓜视频 iOS App](https://www.ixigua.com/app/) as an iOS Dev of ByteDance in Shanghai, China
+- 20:00-1:00 Work for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup remotely
 
 You can also send PM messages at any time via kyle201817146@gmail.com
 
