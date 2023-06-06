@@ -20,6 +20,7 @@ Weekends on China (UTC+8)
 
 #### My Apps / 我的App
 
+- [Forumate](https://github.com/Kyle-Ye/Forumate)
 - [Menu Helper](https://github.com/Kyle-Ye/MenuHelper)
 - [Video Speed Controller](https://github.com/Kyle-Ye/Video-Speed-Controller)
 
