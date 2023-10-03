@@ -7,6 +7,7 @@ Work Hour:
 
 Spare Time:
 - 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup
+- 👨‍💻 Recently working with SwiftUI stuff
 - 🎮 Gaming with my favorite games
   - [IDV](https://www.identityvgame.com)
   - [GGD](https://gaggle.fun/goose-goose-duck)
@@ -14,6 +15,7 @@ Spare Time:
 - 🎨 Art Creativity
   - Modeling with Blender
   - Drawing with Procreate
+ 
 #### My Apps
 
 - [Forumate](https://github.com/Kyle-Ye/Forumate)
