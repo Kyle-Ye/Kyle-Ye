@@ -1,14 +1,12 @@
 ### Kyle-Ye 👋
 
-#### Time Schedule
+Swift programmer / SDWG member / Darwin platform hacker / Indie
 
-Work Hour:
-- 🍉 Contributing for [西瓜视频 iOS App](https://www.ixigua.com/app/) as an iOS Dev of ByteDance
+#### My hobby
 
-Spare Time:
+- 🧑‍💻 Hacking around with SwiftUI/[OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI).
 - 📒 Contributing for [DocC projects](https://github.com/apple/swift-docc) as a member of Swift Documentation Workgroup
-- 👨‍💻 Recently working with SwiftUI stuff
-- 🎮 Gaming with my favorite games
+- 🎮 Gaming with the following games
   - [IDV](https://www.identityvgame.com)
   - [GGD](https://gaggle.fun/goose-goose-duck)
   - [Hollow Knight](https://www.hollowknight.com/)
