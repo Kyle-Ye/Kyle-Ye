@@ -22,7 +22,6 @@ Swift programmer / SDWG member / Darwin platform hacker / Indie
 
 #### Links
 - 📝 Blog: [Kyle's Blog](https://kyleye.top)
-- 🔭 Work: [ByteDance](https://www.bytedance.com/en/)
 - 🥳 Community: [Swift Documentation Workgroup](https://www.swift.org/documentation-workgroup/)
 
 [![Kyle's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Ye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
