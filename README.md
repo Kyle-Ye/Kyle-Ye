@@ -1,6 +1,6 @@
 ### Kyle-Ye 👋
 
-Swift programmer / SDWG member / Darwin platform hacker / Indie
+Swift programmer / previous SDWG member / Darwin platform hacker / Indie
 
 #### My hobby
 
