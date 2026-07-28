@@ -24,6 +24,6 @@ Swift programmer / previous SDWG member / Darwin platform hacker / Indie
 - 📝 Blog: [Kyle's Blog](https://kyleye.top)
 - 🥳 Community: [Swift Documentation Workgroup](https://www.swift.org/documentation-workgroup/)
 
-[![Kyle's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Ye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyle's top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Kyle-Ye&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=Kyle-Ye&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kyle's github stats](https://github-stats-extended.vercel.app/api?username=Kyle-Ye&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
